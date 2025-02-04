@@ -13,6 +13,13 @@ import db from '../config/db'
 // Routes
 import router from './router';
 
+//Logger
+import Logger from '../config/logger'
+
+//Middlewares
+import morganMiddleware from './middleware/mroganMiddleware'
+
+app.use(morganMiddleware)
 app.use('/api/', router)
 
 // App port
@@ -23,6 +30,6 @@ app.use(express.json())
 app.listen(port, async () => {
   await db()
 
-  console.log(`The application is running on port ${port}`)
+  Logger.info(`The application is running on port ${port}`)
 })
 
