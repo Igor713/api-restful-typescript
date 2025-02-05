@@ -1,5 +1,6 @@
 //Env variables
-require('dotenv').config()
+import dotenv from 'dotenv'
+dotenv.config()
 
 import express from 'express'
 import config from 'config'
@@ -11,7 +12,7 @@ const app = express()
 import db from '../config/db'
 
 // Routes
-import router from './router';
+import router from './router'
 
 //Logger
 import Logger from '../config/logger'
@@ -20,6 +21,7 @@ import Logger from '../config/logger'
 import morganMiddleware from './middleware/mroganMiddleware'
 
 app.use(morganMiddleware)
+app.use(express.json())
 app.use('/api/', router)
 
 // App port
@@ -32,4 +34,3 @@ app.listen(port, async () => {
 
   Logger.info(`The application is running on port ${port}`)
 })
-

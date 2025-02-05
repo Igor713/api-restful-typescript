@@ -3,9 +3,9 @@ import { createMovie } from './controllers/movieControllers'
 
 const router = Router()
 
-router.get('/test', (req: Request, res: Response) => {
-  res.status(200).send('API working!')
-})
+// router.get('/test', (req: Request, res: Response) => {
+//   res.status(200).send('API working!')
+// })
 
 router.post('/movie', createMovie)
 
