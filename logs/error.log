@@ -1,2 +1,3 @@
 2025-02-05 07:33:59 - [31merror[39m: [31mThe server cannot be able to connect[39m
 2025-02-05 07:56:41 - [31merror[39m: [31mThe server cannot be able to connect[39m
+2025-02-06 08:24:41 - [31merror[39m: [31mCast to ObjectId failed for value "123" (type string) at path "_id" for model "Movie"[39m

@@ -13,3 +13,66 @@
 2025-02-05 08:10:43 - [32minfo[39m: [32mThe application is running on port 3000[39m
 2025-02-05 08:10:52 - [32minfo[39m: [32mData base connected[39m
 2025-02-05 08:10:53 - [32minfo[39m: [32mThe application is running on port 3000[39m
+2025-02-06 07:43:07 - [32minfo[39m: [32mData base connected[39m
+2025-02-06 07:43:08 - [32minfo[39m: [32mThe application is running on port 3000[39m
+2025-02-06 07:44:42 - [32minfo[39m: [32mData base connected[39m
+2025-02-06 07:44:42 - [32minfo[39m: [32mThe application is running on port 3000[39m
+2025-02-06 07:45:02 - [32minfo[39m: [32mData base connected[39m
+2025-02-06 07:45:02 - [32minfo[39m: [32mThe application is running on port 3000[39m
+2025-02-06 07:45:46 - [32minfo[39m: [32mData base connected[39m
+2025-02-06 07:45:47 - [32minfo[39m: [32mThe application is running on port 3000[39m
+2025-02-06 07:50:38 - [32minfo[39m: [32mData base connected[39m
+2025-02-06 07:50:38 - [32minfo[39m: [32mThe application is running on port 3000[39m
+2025-02-06 07:51:05 - [32minfo[39m: [32mData base connected[39m
+2025-02-06 07:51:05 - [32minfo[39m: [32mThe application is running on port 3000[39m
+2025-02-06 07:52:37 - [32minfo[39m: [32mData base connected[39m
+2025-02-06 07:52:38 - [32minfo[39m: [32mThe application is running on port 3000[39m
+2025-02-06 07:54:31 - [32minfo[39m: [32mData base connected[39m
+2025-02-06 07:54:31 - [32minfo[39m: [32mThe application is running on port 3000[39m
+2025-02-06 07:54:42 - [32minfo[39m: [32mData base connected[39m
+2025-02-06 07:54:42 - [32minfo[39m: [32mThe application is running on port 3000[39m
+2025-02-06 07:55:21 - [32minfo[39m: [32mData base connected[39m
+2025-02-06 07:55:21 - [32minfo[39m: [32mThe application is running on port 3000[39m
+2025-02-06 07:55:47 - [32minfo[39m: [32mData base connected[39m
+2025-02-06 07:55:47 - [32minfo[39m: [32mThe application is running on port 3000[39m
+2025-02-06 07:56:36 - [32minfo[39m: [32mData base connected[39m
+2025-02-06 07:56:36 - [32minfo[39m: [32mThe application is running on port 3000[39m
+2025-02-06 07:56:39 - [32minfo[39m: [32mData base connected[39m
+2025-02-06 07:56:40 - [32minfo[39m: [32mThe application is running on port 3000[39m
+2025-02-06 07:57:38 - [32minfo[39m: [32mData base connected[39m
+2025-02-06 07:57:38 - [32minfo[39m: [32mThe application is running on port 3000[39m
+2025-02-06 07:57:40 - [32minfo[39m: [32mData base connected[39m
+2025-02-06 07:57:41 - [32minfo[39m: [32mThe application is running on port 3000[39m
+2025-02-06 07:57:57 - [32minfo[39m: [32mData base connected[39m
+2025-02-06 07:57:58 - [32minfo[39m: [32mThe application is running on port 3000[39m
+2025-02-06 08:18:41 - [32minfo[39m: [32mData base connected[39m
+2025-02-06 08:18:42 - [32minfo[39m: [32mThe application is running on port 3000[39m
+2025-02-06 08:18:53 - [32minfo[39m: [32mData base connected[39m
+2025-02-06 08:18:54 - [32minfo[39m: [32mThe application is running on port 3000[39m
+2025-02-06 08:19:16 - [32minfo[39m: [32mData base connected[39m
+2025-02-06 08:19:17 - [32minfo[39m: [32mThe application is running on port 3000[39m
+2025-02-06 08:20:19 - [32minfo[39m: [32mData base connected[39m
+2025-02-06 08:20:19 - [32minfo[39m: [32mThe application is running on port 3000[39m
+2025-02-06 08:20:31 - [32minfo[39m: [32mData base connected[39m
+2025-02-06 08:20:32 - [32minfo[39m: [32mThe application is running on port 3000[39m
+2025-02-06 08:21:28 - [32minfo[39m: [32mData base connected[39m
+2025-02-06 08:21:29 - [32minfo[39m: [32mThe application is running on port 3000[39m
+2025-02-06 08:22:45 - [32minfo[39m: [32mData base connected[39m
+2025-02-06 08:22:45 - [32minfo[39m: [32mThe application is running on port 3000[39m
+2025-02-06 08:22:48 - [32minfo[39m: [32mData base connected[39m
+2025-02-06 08:22:49 - [32minfo[39m: [32mThe application is running on port 3000[39m
+2025-02-06 08:22:58 - [32minfo[39m: [32mData base connected[39m
+2025-02-06 08:22:58 - [32minfo[39m: [32mThe application is running on port 3000[39m
+2025-02-06 08:24:41 - [31merror[39m: [31mCast to ObjectId failed for value "123" (type string) at path "_id" for model "Movie"[39m
+2025-02-06 08:28:18 - [32minfo[39m: [32mData base connected[39m
+2025-02-06 08:28:19 - [32minfo[39m: [32mThe application is running on port 3000[39m
+2025-02-06 08:28:20 - [32minfo[39m: [32mData base connected[39m
+2025-02-06 08:28:20 - [32minfo[39m: [32mThe application is running on port 3000[39m
+2025-02-06 08:28:25 - [32minfo[39m: [32mData base connected[39m
+2025-02-06 08:28:26 - [32minfo[39m: [32mThe application is running on port 3000[39m
+2025-02-06 08:28:46 - [32minfo[39m: [32mData base connected[39m
+2025-02-06 08:28:46 - [32minfo[39m: [32mThe application is running on port 3000[39m
+2025-02-06 08:28:55 - [32minfo[39m: [32mData base connected[39m
+2025-02-06 08:28:55 - [32minfo[39m: [32mThe application is running on port 3000[39m
+2025-02-06 08:29:12 - [32minfo[39m: [32mData base connected[39m
+2025-02-06 08:29:12 - [32minfo[39m: [32mThe application is running on port 3000[39m
